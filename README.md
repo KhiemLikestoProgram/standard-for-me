@@ -8,5 +8,5 @@ Be calm, this is not a professional project. It can have very horrible code beca
 Oh and if you are interested in my projects, then you can visit my website here: https://khiemlikestoprogram.github.io. It's kinda unfinished, and the website will **NEVER HAVE** user registration. I make this for fun, remember?
 
 # About me
-Go to github.com/KhiemLikestoProgram for more info.
+Go to https://github.com/KhiemLikestoProgram for more info.
 I'm a Python programmer and also a C++ one but not active.
