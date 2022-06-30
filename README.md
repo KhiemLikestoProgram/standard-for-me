@@ -12,6 +12,6 @@ Go to https://github.com/KhiemLikestoProgram for more info.
 I'm a Python programmer and also a C++ one but not active.
 
 # How to install
-Step 1: Install the source code.
-Step 2: Run `python standard-for-me.py`
-Step 3: Voila!
+- Step 1: Install the source code.
+- Step 2: Run `python standard-for-me.py`
+- Step 3: Voila!
