@@ -11,7 +11,8 @@ Oh and if you are interested in my projects, then you can visit my website here:
 Go to https://github.com/KhiemLikestoProgram for more info.
 I'm a Python programmer and also a C++ one but not active.
 
-# How to install
-- Step 1: Install the source code.
-- Step 2: Run `python standard-for-me.py`
-- Step 3: Voila!
+# How to install and run the program.
+- Step 1: Install the specified version.
+- Step 2: Open the terminal, then change to the directory where you put the program.
+- Step 3: Run `python standard_for_me.py` or `.\kshell` or (`kshell` if you put the batch script in System32 [64-bit] or SysWOW64 [32-bit] folder).
+Voila! You have done it in just three steps!
