@@ -1,7 +1,7 @@
 # standard-for-me (stdfm)
 A standard (for me) class for writing code faster.
 
-> ## Note: _This only works in Windows. If you want to make it in OS X MacOS and Mac, you'll have to do change some of the source code. If you want translations, no Vietnamese because I'm also one, maybe consider changing something but not completely using it. The translations will be added to the files_
+> ## Note: _This only works in Windows. If you want to make it in OS X MacOS and Linux, you'll have to do change some of the source code. If you want translations, no Vietnamese because I'm also one, maybe consider changing something but not completely using it. The translations will be added to the files_
 
 # About
 This is a library for writing faster code. Any help will be good, thanks! (But no need to donate, I don't have a bank account yet)
