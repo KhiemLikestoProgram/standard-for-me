@@ -14,6 +14,7 @@ Go to https://github.com/KhiemLikestoProgram for more info.
 I'm a Python programmer and also a C++ one but not active.
 
 # How to install and run the program.
+For versions from `v1.0.1` to ..., do:
 - Step 1: Install the specified version.
 - Step 2: Open the terminal, then change to the directory where you put the program.
 - Step 3: Run `python standard_for_me.py` or `.\kshell` or (`kshell` if you put the batch script in System32 [64-bit] or SysWOW64 [32-bit] folder).
